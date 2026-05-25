@@ -1,0 +1,10 @@
+{
+  "name": "wix-sync",
+  "version": "1.0.0",
+  "description": "Semi-automatic sync between local VSCode files and Wix online IDE",
+  "private": true,
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "ws": "^8.18.0"
+  }
+}
